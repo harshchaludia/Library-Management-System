@@ -2,8 +2,8 @@
 In this project, implemented a database for keeping track of members, the books, the catalog, and the borrowing activity of an university library. Designed an ER/EER schema diagram for this database application. And, mapped the EER schema into a relational database schema and implemented it on MySQL. Finally, loaded some data in database, and created some queries and update transactions.
 
 ## Assume that the following requirements were collected for this application:
-1.	The University Library has approximately 16,000 members, 100,000 titles, and 250,000 volumes (an average of 2.5 copies per book). About 10% of the volumes are out on loan at any one time. 
-2.	The librarians ensure that the books that members want to borrow are available when the members want to borrow them. Also, the librarians must know how many copies of each book are in the library or out on loan at any given time.
+*	The University Library has approximately 16,000 members, 100,000 titles, and 250,000 volumes (an average of 2.5 copies per book). About 10% of the volumes are out on loan at any one time. 
+*	The librarians ensure that the books that members want to borrow are available when the members want to borrow them. Also, the librarians must know how many copies of each book are in the library or out on loan at any given time.
 3.	A catalog of books is available online that lists books by author, title, and subject area. For each title in the library, a book description is kept in the catalog; the description ranges from one sentence to several pages. The reference librarians want to be able to access this description when members request information about a book. 
 4.	Library staff includes chief librarian, departmental associate librarians, reference librarians, check-out staff, and library assistants.
 5.	Books can be checked out for 21 days. Members are allowed to have only five books out at a time. Members usually return books within three to four weeks. 
