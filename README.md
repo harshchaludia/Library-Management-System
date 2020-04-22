@@ -1,0 +1,2 @@
+# Library-Management-System
+In this project, implemented a database for keeping track of members, the books, the catalog, and the borrowing activity of an university library. Designed an ER/EER schema diagram for this database application. And, mapped the EER schema into a relational database schema and implemented it on MySQL. Finally, loaded some data in database, and created some queries and update transactions.
