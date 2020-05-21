@@ -1,5 +1,7 @@
 # Library-Management-System
 In this project, implemented a database for keeping track of members, the books, the catalog, and the borrowing activity of an university library. Designed an ER/EER schema diagram for this database application. And, mapped the EER schema into a relational database schema and implemented it on MySQL. Finally, loaded some data in database, and created some queries and update transactions.
+## Link to project
+[PROJECT](http://harshchaludia.uta.cloud/database/)
 
 ## Following requirements were collected for this application:
 *	The University Library has approximately 16,000 members, 100,000 titles, and 250,000 volumes (an average of 2.5 copies per book). About 10% of the volumes are out on loan at any one time. 
